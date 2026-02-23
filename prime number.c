@@ -1,3 +1,4 @@
+// Check if the number is prime or not with examples in a minimisd format.
 #include <stdio.h>
 
 int main() {
@@ -24,3 +25,4 @@ int main() {
 
     return 0;
 }
+
