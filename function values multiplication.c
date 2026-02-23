@@ -1,3 +1,4 @@
+// Take sum and sub function of two different user input values, then take the output and multiply together.
 #include <stdio.h>
 
 int sum(int a, int b)
@@ -26,3 +27,4 @@ int main()
 
     return 0;
 }
+
