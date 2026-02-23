@@ -1,4 +1,4 @@
-/*// swap two number by a temporary variable
+// swap two number by a temporary variable
 #include <stdio.h>
 
 int main() {
@@ -19,7 +19,7 @@ int main() {
     printf("After swapping: a = %d, b = %d\n", a, b);
 
     return 0;
-}*/
+}
 
 // swap two number without temporary variables help
 #include <stdio.h>
@@ -138,3 +138,4 @@ int main() {
 
     return 0;
 }
+
